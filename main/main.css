@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+.grey{
+    color: rgb(125, 28, 221);
+    font-size: 35px;
+    text-decoration: underline;
+}
+.darkGrey {
+    color: rgb(19, 204, 19);
+}
+#last {
+    color: blue;
+}
+.grey2{
+    color: rgb(125, 28, 221);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: right;
+}
+#last {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
