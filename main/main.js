@@ -1,3 +1,5 @@
+"use strict"
+
 const p = 3.1415926;
 const retiredAgeUrkaine = 65;
 const currentYear = 2022;
